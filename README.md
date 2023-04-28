@@ -27,7 +27,7 @@
 | fun | /fun | 펀시스템 관련 API | |
 | catch | /catch | SSU:catch 관련 API | |
 | usaint | /usaint | 유세인트 관련 API | |
-| pann | /pann | 숭실paNN 관련 API |
+| pann | /pann | 숭실paNN 관련 API | |
 
 ## Contribute
 
